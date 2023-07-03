@@ -14,5 +14,4 @@ So, join me on this exciting journey as we revolutionize the way Discord Nitro c
 
 Thank you for visiting my repository. Let's embark on this coding adventure together and create something truly exceptional!
 
-[ https://streamable.com/uqz6se
-](https://www.youtube.com/watch?v=A18qQrk3Z8U)https://www.youtube.com/watch?v=A18qQrk3Z8U
+https://www.youtube.com/watch?v=A18qQrk3Z8U
