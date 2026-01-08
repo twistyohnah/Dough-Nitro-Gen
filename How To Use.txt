@@ -2,4 +2,11 @@ First you need to install python python is a type of language used for scripting
 to get started head over to https://www.python.org/downloads/ and it should be a big yellow button you need to download once finished downloading make sure it is added to path in 
 process once done download the .zip and run Doughs nitro gen,  Once it has been ran it will ask you for your webhook to create one go to discord 
 creat a server then go to server setting, intergations, webhooks then create a new one.
+
 paste the webhook in command prompt click enter, then you put amount of code you want to genrate.   also i want to metion thats all the nitro codes may not work as if theires a slim chance it legit for further help contact me through project.
+
+
+
+
+  EDIT:
+I was 10!!! i was practicing python it probably doesnt work now!
